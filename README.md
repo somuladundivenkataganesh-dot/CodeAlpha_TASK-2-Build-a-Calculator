@@ -28,10 +28,15 @@ This calculator application allows users to perform fundamental mathematical ope
 ## 📂 Project Structure
 
 calculator/
+
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling and layout
+
 ├── script.js # Calculator logic
+
 └── README.md # Project documentation
 
 
