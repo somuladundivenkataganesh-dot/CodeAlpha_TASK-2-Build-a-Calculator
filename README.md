@@ -46,13 +46,14 @@ calculator/
 
 ```bash
 git clone https://github.com/somuladundivenkataganesh-dot/calculator.git
+```
 
 **### 2. Navigate to the Project Folder**
       cd calculator
 **###3. Open the Application**
 
       Simply open the index.html file in your browser.
-      
+``
       **🎮 Usage:**
 
       Click the calculator buttons to enter numbers and operators.
@@ -64,7 +65,7 @@ git clone https://github.com/somuladundivenkataganesh-dot/calculator.git
       Enter: =
       Backspace: Delete last character
       Escape: Clear display
-      
+``  
       **📚 Learning Outcomes:**
       
       Through this project, you will learn:
@@ -75,7 +76,7 @@ git clone https://github.com/somuladundivenkataganesh-dot/calculator.git
       Responsive Web Design
       User Interface Development
       Arithmetic Logic Implementation
-
+``
       **🤝 Contributing:**
       
       Contributions, suggestions, and improvements are welcome.
@@ -85,7 +86,7 @@ git clone https://github.com/somuladundivenkataganesh-dot/calculator.git
       Commit your changes
       Push to your branch
       Open a Pull Request
-
-📄 License
+``
+**📄 License**
 
 This project is open-source and available under the MIT License.
